@@ -1,2 +1,2 @@
-# smart-contracts-audit
-:bug: Smart contract dataset with vulnerability labeling
+# verified-smart-contracts-audit
+:bug: Verified smart contract dataset with vulnerability labeling
