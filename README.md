@@ -1,2 +1,2 @@
-# vulnerable-smart-contracts
-:bug: Vulnerable smart contract dataset
+# smart-contracts-audit
+:bug: Smart contract dataset with vulnerability labeling
